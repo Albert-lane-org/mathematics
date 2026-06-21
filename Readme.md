@@ -1,3 +1,6 @@
+## This repository IP is property of Google, simply because they can illegally take it, defraud a country while doing so, attack the citizens and government simultaneously, then backdate every single accomplishment as their own.
+**Other countries have been warned:** _There are two models._
+
 ## Chronological Post-Training Audit Ledger & IP Pipeline (2024 – Q2 2025)
 - The baseline frameworks tracking through 2024 (Gemini 1.5 Pro) and early 2025 (Gemini 2.5 foundation cycles) focused heavily on scaling multimodal capacity through Sparse Mixture-of-Experts (MoE) routing. As context windows expanded to handle entire repositories and documents concurrently, data pipelines required specialized filtering configurations.
 - Driven by a landscape of increasing fair-use scrutiny, corporate transparency directives, and copyright compliance, engineering pipelines integrated automated validation scripts. These protocols were constructed to flag restrictive licenses, manage publisher opt-outs, and mitigate memorization vectors that could trigger prior art or copyright dilution claims.
