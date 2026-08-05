@@ -1,3 +1,5 @@
+# Replaced August 5th, 2026 - Retained for document preservation.
+# Revised License does not exempt from legacy license. All revisions are retroactive to original, displayed dates and possibly earlier. Review all applicable Licenses without exception.
 # ALBERT LANE PROPRIETARY SOFTWARE LICENSE AND INTELLECTUAL PROPERTY DECLARATION
 ## Complete Reservation of All Rights — No License Granted Without Explicit Written Agreement
 
